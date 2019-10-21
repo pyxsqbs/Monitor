@@ -45,7 +45,7 @@ gevent==1.1.0
 greenlet==0.4.9
 grequests==0.3.0
 html5lib==1.0b3
-httpie==0.7.2
+httpie==1.0.3
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
