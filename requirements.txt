@@ -65,7 +65,7 @@ jupyter-console==5.2.0
 jupyter-core==4.3.0
 kombu==3.0.24
 Lango==0.13.2
-lxml==3.5.0
+lxml==4.6.2
 M2Crypto==0.22.6rc4
 Mako==0.9.1
 Markdown==2.3.1
