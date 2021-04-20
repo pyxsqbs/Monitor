@@ -133,7 +133,7 @@ virtualenv==15.0.1
 w3lib==1.18.0
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 widgetsnbextension==3.0.1
 WTForms==1.0.5
 xgboost==0.6a2
