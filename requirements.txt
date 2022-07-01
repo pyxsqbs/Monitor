@@ -70,7 +70,7 @@ M2Crypto==0.22.6rc4
 Mako==0.9.1
 Markdown==2.3.1
 MarkupSafe==0.23
-mistune==0.7.4
+mistune==0.8.1
 mysql-connector-python==8.0.5
 nbconvert==5.2.1
 nbformat==4.4.0
