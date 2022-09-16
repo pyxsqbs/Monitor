@@ -67,7 +67,7 @@ kombu==3.0.24
 Lango==0.13.2
 lxml==3.5.0
 M2Crypto==0.22.6rc4
-Mako==0.9.1
+Mako==1.2.2
 Markdown==2.3.1
 MarkupSafe==0.23
 mistune==0.7.4
